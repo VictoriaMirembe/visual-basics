@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\marks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4CACBE-0AB9-4FC3-AA48-B18BE5D13F65}|Marks\\Marks.vbproj|g:\\marks\\marks\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9E4CACBE-0AB9-4FC3-AA48-B18BE5D13F65}|Marks\\Marks.vbproj|solutionrelative:marks\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4CACBE-0AB9-4FC3-AA48-B18BE5D13F65}|Marks\\Marks.vbproj|g:\\marks\\marks\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E4CACBE-0AB9-4FC3-AA48-B18BE5D13F65}|Marks\\Marks.vbproj|solutionrelative:marks\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "G:\\marks\\Marks\\Form1.vb",
+              "RelativeDocumentMoniker": "Marks\\Form1.vb",
+              "ToolTip": "G:\\marks\\Marks\\Form1.vb*",
+              "RelativeToolTip": "Marks\\Form1.vb*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T10:56:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "G:\\marks\\Marks\\Form1.vb",
+              "RelativeDocumentMoniker": "Marks\\Form1.vb",
+              "ToolTip": "G:\\marks\\Marks\\Form1.vb [Design]*",
+              "RelativeToolTip": "Marks\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T18:14:47.009Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
